@@ -1,10 +1,5 @@
 '''
-NEURALNINE (c) 2019
-Stock Visualizer v0.1 Alpha
 
-This is the very first prototype and the code is not very clean
-Also there may be a couple of bugs
-A lot of exceptions are not handled
 '''
 
 # Imports
